@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: crimson;
+    padding:5px;
+    border-radius: 30px;
+
+    }
+
+
+    header b {
+        color:black; 
+        font-size: 25px;
+        margin:10px;
+    }
+    
+    header a {
+        text-decoration: none;
+    }
+
+    h1 {
+         width: 100;
+         text-align: center;
+         background-color: crimson;
+
+        
+    
+     footer p {
+         margin: 0px;
+         padding: 5px;
+         border: 10px solid crimson;
+     }
+nav a {
+    padding: 10px;
+    background-color: crimson;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px; 
+    font-size: 20px;
+    margin: 5px;
+     }
+    
